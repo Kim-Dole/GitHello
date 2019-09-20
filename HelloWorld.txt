@@ -1,4 +1,7 @@
 Premiers pas, déjà vu, bravo
 CHELOU
+<<<<<<< HEAD
 FIUHDSIHFDSIF
+=======
+>>>>>>> 1ecfe99cb891c583af7e86fc008a9ee23f09f5f1
 mmmsldldfskfdsf
